@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "全球企业出海合规热力图·Vercel版",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.formatOnSave": true
+  }
+}
